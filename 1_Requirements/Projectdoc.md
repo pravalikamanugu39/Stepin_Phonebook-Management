@@ -19,7 +19,7 @@ The key features of phonebook management system are:
 
 ## Language & IDE
 
-1. C
+1. C language
 2. Visual Studio Code
 
 ## Testcases
