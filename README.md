@@ -9,3 +9,4 @@ Badges:
 
 [![Git Inspector](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/git_inspector.yml)
 [![cppcheck-action](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/cppcheck.yml)
+[![Unit testing](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/unit_test.yml/badge.svg)](https://github.com/pravalikamanugu39/Stepin_Phonebook-Management/actions/workflows/unit_test.yml)
