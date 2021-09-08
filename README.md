@@ -14,7 +14,8 @@ The key features of phonebook management system are:
 5.Search
 6.Exit
 
-## Badges:  
+## Badges
+
 ## CODE INSPECTOR BADGES
 [![Code inspector CodeQuality](https://www.code-inspector.com/project/27804/score/svg)
 
