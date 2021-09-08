@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+    test:
 
     runs-on: ubuntu-latest
 
@@ -17,7 +17,8 @@ jobs:
       run: |
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
-    - name: make test
-      run: |
-        make test -C 03_implementation/
-        valgrind ./03_implementation/build/Test_phonebook-management.out
+    - name: make all
+      run: make -C 3_Implementation/ all
+    - name: valgrind
+      run: make -C 3_Implementation/ valgrind
+   
